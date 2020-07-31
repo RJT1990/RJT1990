@@ -12,4 +12,4 @@ I've worked on a lot of things in my 20s, including:
 - Started a machine learning startup (Atlas ML) -> co-created Papers With Code to help systemize machine learning information.
 - Joined Facebook AI with the PWC team to help accelerate our growth.
 
-So I tried out a lot of bandit machines :).
+So I've tried out a lot of bandit machines :).
