@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**RJT1990/RJT1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ross. I'm currently working on [Papers With Code](http://www.paperswithcode.com) at Facebook AI Research. Our goal is to tackle information overload in science and make it easier to find, grasp and extend research.
 
-Here are some ideas to get you started:
+I've worked on a lot of things in my 20s, including:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Worked at the UK Treasury during the Eurozone crisis on financial services policy.
+- Did my masters at Cambridge in Economics; realized I loved the maths bit more than the econ bit (focused on time series modeling).
+- Worked as a quant researcher at a leading firm, where I researched new modelling approaches for trading various markets.
+- Built an open source time series library, PyFlux, with some novel approaches to fill a gap in the PyData ecosystem.
+- Worked as a quant developer at a startup to get more experience with startup world; built a quantitative modelling framework now in use at several major firms.
+- Started a machine learning startup (Atlas ML) -> co-created Papers With Code to help organize machine learning information to make it easier to find and apply.
+- Joined Facebook AI with the PWC team to help accelerate our growth.
+
+So I tried out a lot of bandit machines :).
