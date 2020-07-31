@@ -5,10 +5,10 @@ I'm Ross. I'm currently working on [Papers With Code](http://www.paperswithcode.
 I've worked on a lot of things in my 20s, including:
 
 - Worked at the UK Treasury during the Eurozone crisis on financial services policy.
-- Did my masters at Cambridge in Economics; realized I loved the maths bit more than the econ bit (focused on time series modeling).
-- Worked as a quant researcher at a leading firm, where I researched new modelling approaches for trading various markets.
+- Did my masters at Cambridge in Economics; realized I loved the maths bit more than the econ bit.
+- Worked as a quant researcher at a leading firm; researched new modelling approaches for trading various markets.
 - Built an open source time series library, PyFlux, with some novel approaches to fill a gap in the PyData ecosystem.
-- Worked as a quant developer at a startup to get more experience with startup world; built a quantitative modelling framework now in use at several major firms.
+- Worked as a quant developer at a startup to get experience with startups; built a quantitative modelling framework now in use at several major firms.
 - Started a machine learning startup (Atlas ML) -> co-created Papers With Code to help organize machine learning information to make it easier to find and apply.
 - Joined Facebook AI with the PWC team to help accelerate our growth.
 
